@@ -1,0 +1,16 @@
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\bin\Debug\net5.0\vehicle.exe
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\bin\Debug\net5.0\vehicle.deps.json
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\bin\Debug\net5.0\vehicle.runtimeconfig.json
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\bin\Debug\net5.0\vehicle.runtimeconfig.dev.json
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\bin\Debug\net5.0\vehicle.dll
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\bin\Debug\net5.0\ref\vehicle.dll
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\bin\Debug\net5.0\vehicle.pdb
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\obj\Debug\net5.0\vehicle.csproj.AssemblyReference.cache
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\obj\Debug\net5.0\vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\obj\Debug\net5.0\vehicle.AssemblyInfoInputs.cache
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\obj\Debug\net5.0\vehicle.AssemblyInfo.cs
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\obj\Debug\net5.0\vehicle.csproj.CoreCompileInputs.cache
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\obj\Debug\net5.0\vehicle.dll
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\obj\Debug\net5.0\ref\vehicle.dll
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\obj\Debug\net5.0\vehicle.pdb
+C:\Users\nrpus\workspace\csharpbook1\vehicle\vehicle\obj\Debug\net5.0\vehicle.genruntimeconfig.cache
